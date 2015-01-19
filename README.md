@@ -55,6 +55,7 @@
 [失落的一年](../master/4/pcqpcq.md) | [小丑](https://github.com/pcqpcq)
 [不二的一年](../master/4/RockerFlower.md) | [万能野花](http://doublewong.com)
 [悲伤的一年](../master/4/LaDen.md) | [杭州精创拉登](https://github.com/wuqingman)
+[经历最多的一年](../master/4/nicewarm.md) | [北京-nice](https://github.com/nicewarm)
 
 #### [5 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
